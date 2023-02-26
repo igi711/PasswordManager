@@ -16,7 +16,7 @@ $python PasswordManager.py
 ```
 This will launch in the terminal and you will see the following:
 
-![PasswordManager]()
+![PasswordManager](https://github.com/igi711/PasswordManager/blob/main/passwdmngr.png)
 
 ### Examples of how it works:
 ***
